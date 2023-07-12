@@ -1,0 +1,6 @@
+{
+    "service_name": "dummy1",
+    "spare_property": "hello",
+    "prerequisites": [ "dummy2" ]
+
+}

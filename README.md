@@ -2,6 +2,8 @@
 
 Smarter startupitems for windows.
 
+**Fully alpha, do not use**
+
 ## Design
 
 We'll have a set of modules in a folder defined in ps1 files.  We need each to have 
